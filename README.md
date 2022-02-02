@@ -12,12 +12,12 @@ Technology has progressed to the point where things may happen organically, allo
 # Requirements
 * Plywood
 * L298 N Motor
-* Motors
 * 12V Battery
 * ESP32 - CAM
 * Arduino Uno
 * Ultrasonic Sensor
 * HC 05 Bluetooth Module
+* DC 12v 300rpm geared motors
 # Design
 # Team Members
 * Maddukuri Nivas (19BCE1010)
