@@ -19,6 +19,9 @@ Technology has progressed to the point where things may happen organically, allo
 * HC 05 Bluetooth Module
 * DC 12v 300rpm geared motors
 # Design
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/60887877/163661939-b4aa4d49-908b-4775-a1e3-9205e1dae7de.png">
+<img width="331" alt="image" src="https://user-images.githubusercontent.com/60887877/163661959-3404e7be-8fcc-4404-ac09-ec1a9ffbb9a9.png">
+
 # Team Members
 * Maddukuri Nivas (19BCE1010)
 * Kovvuri Uday Surya Deveswar Reddy (19BCE1253)
