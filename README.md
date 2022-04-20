@@ -28,5 +28,5 @@ Technology has progressed to the point where things may happen organically, allo
 # Current Status
 <img width="421" alt="image" src="https://user-images.githubusercontent.com/60887877/158582864-fee67018-135f-4e84-8792-9fc50cdb0d60.png">
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/60887877/158583001-4ef85dbc-f0f9-4507-8c2b-3c7e3775d435.png">
-# Final Work (Device)
+# Final Work
 https://youtu.be/y4VK5W3zALM
