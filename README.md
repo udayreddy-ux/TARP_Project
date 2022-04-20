@@ -13,7 +13,6 @@ Technology has progressed to the point where things may happen organically, allo
 * Plywood
 * L298 N Motor
 * 12V Battery
-* ESP32 - CAM
 * Arduino Uno
 * Ultrasonic Sensor
 * HC 05 Bluetooth Module
