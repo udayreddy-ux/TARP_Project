@@ -24,9 +24,8 @@ Technology has progressed to the point where things may happen organically, allo
 # Team Members
 * Maddukuri Nivas (19BCE1010)
 * Kovvuri Uday Surya Deveswar Reddy (19BCE1253)
-# Current Status
-<img width="421" alt="image" src="https://user-images.githubusercontent.com/60887877/158582864-fee67018-135f-4e84-8792-9fc50cdb0d60.png">
-<img width="437" alt="image" src="https://user-images.githubusercontent.com/60887877/158583001-4ef85dbc-f0f9-4507-8c2b-3c7e3775d435.png">
+# Device
+<img width="265" alt="image" src="https://user-images.githubusercontent.com/60887877/165577654-8c933c19-0865-4ef6-ba39-27826d8c10b4.png">
 
 # Final Work
 https://youtu.be/lJzf8SphlkQ
